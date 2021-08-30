@@ -1,2 +1,2 @@
-# Stone-Paper-Scissor-game
+Tkinter Library
 Stone Paper Scissor game using Tkinter Library 
